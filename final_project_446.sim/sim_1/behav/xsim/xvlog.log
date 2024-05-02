@@ -1,0 +1,23 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v" into library xil_defaultlib
+ERROR: [VRFC 10-4982] syntax error near '{' [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:2]
+ERROR: [VRFC 10-1342] root scope declaration is not allowed in verilog 95/2K mode [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:2]
+INFO: [VRFC 10-311] analyzing module Cell
+ERROR: [VRFC 10-4982] syntax error near '@' [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:15]
+ERROR: [VRFC 10-4982] syntax error near '=' [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:28]
+ERROR: [VRFC 10-4982] syntax error near '=' [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:30]
+ERROR: [VRFC 10-4982] syntax error near '=' [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:32]
+ERROR: [VRFC 10-4982] syntax error near ':' [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:35]
+ERROR: [VRFC 10-4982] syntax error near '=' [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:36]
+ERROR: [VRFC 10-4982] syntax error near ':' [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:40]
+ERROR: [VRFC 10-4982] syntax error near '=' [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:41]
+WARNING: [VRFC 10-1493] unexpected default, violates IEEE 1800 syntax [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:45]
+ERROR: [VRFC 10-4982] syntax error near ':' [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:45]
+ERROR: [VRFC 10-2939] 'states' is an unknown type [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:13]
+ERROR: [VRFC 10-2939] 'always_ff' is an unknown type [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:15]
+ERROR: [VRFC 10-2939] 'PS' is an unknown type [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:19]
+ERROR: [VRFC 10-2939] 'always_comb' is an unknown type [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:22]
+ERROR: [VRFC 10-2951] 'Sel' is not a constant [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:27]
+ERROR: [VRFC 10-2939] 'NS' is an unknown type [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:28]
+ERROR: [VRFC 10-2951] 'Sel' is not a constant [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:29]
+ERROR: [VRFC 10-2939] 'NS' is an unknown type [D:/HDD Downloads/EGEC381_Lab4_RCAdder-20231130T200319Z-001/final_project_446/final_project_446.srcs/sources_1/new/FSM_Cell.v:30]
+INFO: [#UNDEF] Sorry, too many errors..
