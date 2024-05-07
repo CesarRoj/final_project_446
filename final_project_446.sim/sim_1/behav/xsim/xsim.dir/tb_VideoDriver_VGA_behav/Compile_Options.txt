@@ -1,0 +1,1 @@
+-wto "dc19835c49144803b15b9cb836e806a5" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_VideoDriver_VGA_behav" "xil_defaultlib.tb_VideoDriver_VGA" "xil_defaultlib.glbl" -log "elaborate.log" 
